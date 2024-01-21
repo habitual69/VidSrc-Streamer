@@ -1,0 +1,5 @@
+fastapi
+requests
+beautifulsoup4
+imdbpy
+uvicorn

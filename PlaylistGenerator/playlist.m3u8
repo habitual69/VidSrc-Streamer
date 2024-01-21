@@ -1,0 +1,499 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="The Shawshank Redemption" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg" group-title="Drama",The Shawshank Redemption
+http://localhost:8000/stream/tt0111161
+#EXTINF:-1 tvg-id="The Godfather" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Crime",The Godfather
+http://localhost:8000/stream/tt0068646
+#EXTINF:-1 tvg-id="The Dark Knight" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@.jpg" group-title="Action",The Dark Knight
+http://localhost:8000/stream/tt0468569
+#EXTINF:-1 tvg-id="The Godfather Part II" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Crime",The Godfather Part II
+http://localhost:8000/stream/tt0071562
+#EXTINF:-1 tvg-id="12 Angry Men" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Crime",12 Angry Men
+http://localhost:8000/stream/tt0050083
+#EXTINF:-1 tvg-id="Schindler's List" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Biography",Schindler's List
+http://localhost:8000/stream/tt0108052
+#EXTINF:-1 tvg-id="The Lord of the Rings: The Return of the King" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Action",The Lord of the Rings: The Return of the King
+http://localhost:8000/stream/tt0167260
+#EXTINF:-1 tvg-id="Pulp Fiction" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Crime",Pulp Fiction
+http://localhost:8000/stream/tt0110912
+#EXTINF:-1 tvg-id="The Lord of the Rings: The Fellowship of the Ring" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg" group-title="Action",The Lord of the Rings: The Fellowship of the Ring
+http://localhost:8000/stream/tt0120737
+#EXTINF:-1 tvg-id="The Good, the Bad and the Ugly" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Adventure",The Good, the Bad and the Ugly
+http://localhost:8000/stream/tt0060196
+#EXTINF:-1 tvg-id="Forrest Gump" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Drama",Forrest Gump
+http://localhost:8000/stream/tt0109830
+#EXTINF:-1 tvg-id="Fight Club" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Drama",Fight Club
+http://localhost:8000/stream/tt0137523
+#EXTINF:-1 tvg-id="The Lord of the Rings: The Two Towers" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Action",The Lord of the Rings: The Two Towers
+http://localhost:8000/stream/tt0167261
+#EXTINF:-1 tvg-id="Inception" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@.jpg" group-title="Action",Inception
+http://localhost:8000/stream/tt1375666
+#EXTINF:-1 tvg-id="Star Wars: Episode V - The Empire Strikes Back" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Action",Star Wars: Episode V - The Empire Strikes Back
+http://localhost:8000/stream/tt0080684
+#EXTINF:-1 tvg-id="The Matrix" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Action",The Matrix
+http://localhost:8000/stream/tt0133093
+#EXTINF:-1 tvg-id="Goodfellas" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Biography",Goodfellas
+http://localhost:8000/stream/tt0099685
+#EXTINF:-1 tvg-id="One Flew Over the Cuckoo's Nest" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Drama",One Flew Over the Cuckoo's Nest
+http://localhost:8000/stream/tt0073486
+#EXTINF:-1 tvg-id="Se7en" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Crime",Se7en
+http://localhost:8000/stream/tt0114369
+#EXTINF:-1 tvg-id="It's a Wonderful Life" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@.jpg" group-title="Drama",It's a Wonderful Life
+http://localhost:8000/stream/tt0038650
+#EXTINF:-1 tvg-id="Seven Samurai" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwY2I5NWMtMjNlNi00ZThjLWI4NzQtNDI4M2I4OGM1YjAzXkEyXkFqcGdeQXVyNzYxODE3NTQ@.jpg" group-title="Action",Seven Samurai
+http://localhost:8000/stream/tt0047478
+#EXTINF:-1 tvg-id="Interstellar" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Adventure",Interstellar
+http://localhost:8000/stream/tt0816692
+#EXTINF:-1 tvg-id="The Silence of the Lambs" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Crime",The Silence of the Lambs
+http://localhost:8000/stream/tt0102926
+#EXTINF:-1 tvg-id="Saving Private Ryan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@.jpg" group-title="Drama",Saving Private Ryan
+http://localhost:8000/stream/tt0120815
+#EXTINF:-1 tvg-id="City of God" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Crime",City of God
+http://localhost:8000/stream/tt0317248
+#EXTINF:-1 tvg-id="Life Is Beautiful" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Comedy",Life Is Beautiful
+http://localhost:8000/stream/tt0118799
+#EXTINF:-1 tvg-id="The Green Mile" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3.jpg" group-title="Crime",The Green Mile
+http://localhost:8000/stream/tt0120689
+#EXTINF:-1 tvg-id="Star Wars: Episode IV - A New Hope" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx.jpg" group-title="Action",Star Wars: Episode IV - A New Hope
+http://localhost:8000/stream/tt0076759
+#EXTINF:-1 tvg-id="Terminator 2: Judgment Day" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Action",Terminator 2: Judgment Day
+http://localhost:8000/stream/tt0103064
+#EXTINF:-1 tvg-id="Spider-Man: Across the Spider-Verse" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@.jpg" group-title="Animation",Spider-Man: Across the Spider-Verse
+http://localhost:8000/stream/tt9362722
+#EXTINF:-1 tvg-id="Back to the Future" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Adventure",Back to the Future
+http://localhost:8000/stream/tt0088763
+#EXTINF:-1 tvg-id="Spirited Away" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Animation",Spirited Away
+http://localhost:8000/stream/tt0245429
+#EXTINF:-1 tvg-id="The Pianist" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Biography",The Pianist
+http://localhost:8000/stream/tt0253474
+#EXTINF:-1 tvg-id="Parasite" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@.jpg" group-title="Drama",Parasite
+http://localhost:8000/stream/tt6751668
+#EXTINF:-1 tvg-id="Psycho" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Horror",Psycho
+http://localhost:8000/stream/tt0054215
+#EXTINF:-1 tvg-id="Gladiator" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Action",Gladiator
+http://localhost:8000/stream/tt0172495
+#EXTINF:-1 tvg-id="The Lion King" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@.jpg" group-title="Animation",The Lion King
+http://localhost:8000/stream/tt0110357
+#EXTINF:-1 tvg-id="L�on: The Professional" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Action",L�on: The Professional
+http://localhost:8000/stream/tt0110413
+#EXTINF:-1 tvg-id="American History X" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@.jpg" group-title="Crime",American History X
+http://localhost:8000/stream/tt0120586
+#EXTINF:-1 tvg-id="The Departed" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3.jpg" group-title="Crime",The Departed
+http://localhost:8000/stream/tt0407887
+#EXTINF:-1 tvg-id="Whiplash" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Drama",Whiplash
+http://localhost:8000/stream/tt2582802
+#EXTINF:-1 tvg-id="The Prestige" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@.jpg" group-title="Drama",The Prestige
+http://localhost:8000/stream/tt0482571
+#EXTINF:-1 tvg-id="Grave of the Fireflies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg" group-title="Animation",Grave of the Fireflies
+http://localhost:8000/stream/tt0095327
+#EXTINF:-1 tvg-id="Harakiri" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FiMzJiMTYtY2RiNS00Y2ExLWJkMTYtNzJhMmZmMDlhMDQzXkEyXkFqcGdeQXVyNDI3NjU1NzQ@.jpg" group-title="Action",Harakiri
+http://localhost:8000/stream/tt0056058
+#EXTINF:-1 tvg-id="The Usual Suspects" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Crime",The Usual Suspects
+http://localhost:8000/stream/tt0114814
+#EXTINF:-1 tvg-id="Casablanca" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@.jpg" group-title="Drama",Casablanca
+http://localhost:8000/stream/tt0034583
+#EXTINF:-1 tvg-id="The Intouchables" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@.jpg" group-title="Biography",The Intouchables
+http://localhost:8000/stream/tt1675434
+#EXTINF:-1 tvg-id="Modern Times" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VlMjY3N2UtN2ZjNC00MDg4LWI3ZGQtZmE4NjZkZjkwZmYzXkEyXkFqcGdeQXVyMTU3NDU4MDg2.jpg" group-title="Comedy",Modern Times
+http://localhost:8000/stream/tt0027977
+#EXTINF:-1 tvg-id="Cinema Paradiso" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@.jpg" group-title="Drama",Cinema Paradiso
+http://localhost:8000/stream/tt0095765
+#EXTINF:-1 tvg-id="Rear Window" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Mystery",Rear Window
+http://localhost:8000/stream/tt0047396
+#EXTINF:-1 tvg-id="Once Upon a Time in the West" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Western",Once Upon a Time in the West
+http://localhost:8000/stream/tt0064116
+#EXTINF:-1 tvg-id="Alien" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Horror",Alien
+http://localhost:8000/stream/tt0078748
+#EXTINF:-1 tvg-id="City Lights" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Comedy",City Lights
+http://localhost:8000/stream/tt0021749
+#EXTINF:-1 tvg-id="Apocalypse Now" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",Apocalypse Now
+http://localhost:8000/stream/tt0078788
+#EXTINF:-1 tvg-id="Django Unchained" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@.jpg" group-title="Drama",Django Unchained
+http://localhost:8000/stream/tt1853728
+#EXTINF:-1 tvg-id="Memento" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Mystery",Memento
+http://localhost:8000/stream/tt0209144
+#EXTINF:-1 tvg-id="Raiders of the Lost Ark" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@.jpg" group-title="Action",Raiders of the Lost Ark
+http://localhost:8000/stream/tt0082971
+#EXTINF:-1 tvg-id="WALL�E" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@.jpg" group-title="Animation",WALL�E
+http://localhost:8000/stream/tt0910970
+#EXTINF:-1 tvg-id="The Lives of Others" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",The Lives of Others
+http://localhost:8000/stream/tt0405094
+#EXTINF:-1 tvg-id="Sunset Blvd." tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@.jpg" group-title="Drama",Sunset Blvd.
+http://localhost:8000/stream/tt0043014
+#EXTINF:-1 tvg-id="Paths of Glory" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@.jpg" group-title="Drama",Paths of Glory
+http://localhost:8000/stream/tt0050825
+#EXTINF:-1 tvg-id="Avengers: Infinity War" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@.jpg" group-title="Action",Avengers: Infinity War
+http://localhost:8000/stream/tt4154756
+#EXTINF:-1 tvg-id="Spider-Man: Into the Spider-Verse" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@.jpg" group-title="Animation",Spider-Man: Into the Spider-Verse
+http://localhost:8000/stream/tt4633694
+#EXTINF:-1 tvg-id="The Shining" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Drama",The Shining
+http://localhost:8000/stream/tt0081505
+#EXTINF:-1 tvg-id="Witness for the Prosecution" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg" group-title="Crime",Witness for the Prosecution
+http://localhost:8000/stream/tt0051201
+#EXTINF:-1 tvg-id="The Great Dictator" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Comedy",The Great Dictator
+http://localhost:8000/stream/tt0032553
+#EXTINF:-1 tvg-id="Aliens" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkY2EyOWYtYWRmNy00ZTEzLTllMDAtYzYzYjA0ZjFhZWJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3.jpg" group-title="Action",Aliens
+http://localhost:8000/stream/tt0090605
+#EXTINF:-1 tvg-id="Oppenheimer" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@.jpg" group-title="Biography",Oppenheimer
+http://localhost:8000/stream/tt15398776
+#EXTINF:-1 tvg-id="Inglourious Basterds" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg" group-title="Adventure",Inglourious Basterds
+http://localhost:8000/stream/tt0361748
+#EXTINF:-1 tvg-id="The Dark Knight Rises" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@.jpg" group-title="Action",The Dark Knight Rises
+http://localhost:8000/stream/tt1345836
+#EXTINF:-1 tvg-id="American Beauty" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Drama",American Beauty
+http://localhost:8000/stream/tt0169547
+#EXTINF:-1 tvg-id="Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWMxYjZkOWUtM2FjMi00MmI1LThkNzQtNTM5Y2E2ZGQ2NGFhXkEyXkFqcGdeQXVyMTA0MTM5NjI2.jpg" group-title="Comedy",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+http://localhost:8000/stream/tt0057012
+#EXTINF:-1 tvg-id="Oldboy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@.jpg" group-title="Action",Oldboy
+http://localhost:8000/stream/tt0364569
+#EXTINF:-1 tvg-id="Coco" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@.jpg" group-title="Animation",Coco
+http://localhost:8000/stream/tt2380307
+#EXTINF:-1 tvg-id="Amadeus" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg" group-title="Biography",Amadeus
+http://localhost:8000/stream/tt0086879
+#EXTINF:-1 tvg-id="Toy Story" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@.jpg" group-title="Animation",Toy Story
+http://localhost:8000/stream/tt0114709
+#EXTINF:-1 tvg-id="Das Boot" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3.jpg" group-title="Drama",Das Boot
+http://localhost:8000/stream/tt0082096
+#EXTINF:-1 tvg-id="Braveheart" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Biography",Braveheart
+http://localhost:8000/stream/tt0112573
+#EXTINF:-1 tvg-id="Avengers: Endgame" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@.jpg" group-title="Action",Avengers: Endgame
+http://localhost:8000/stream/tt4154796
+#EXTINF:-1 tvg-id="Joker" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg" group-title="Crime",Joker
+http://localhost:8000/stream/tt7286456
+#EXTINF:-1 tvg-id="Princess Mononoke" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Animation",Princess Mononoke
+http://localhost:8000/stream/tt0119698
+#EXTINF:-1 tvg-id="Good Will Hunting" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Drama",Good Will Hunting
+http://localhost:8000/stream/tt0119217
+#EXTINF:-1 tvg-id="Your Name." tvg-logo="https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@.jpg" group-title="Animation",Your Name.
+http://localhost:8000/stream/tt5311514
+#EXTINF:-1 tvg-id="Once Upon a Time in America" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQzZjdmZDAtOGE2Yy00MmUwLTljYzgtZTMwMjk3ZDdiOWUyXkEyXkFqcGdeQXVyNjc5NjEzNA@@.jpg" group-title="Crime",Once Upon a Time in America
+http://localhost:8000/stream/tt0087843
+#EXTINF:-1 tvg-id="3 Idiots" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Comedy",3 Idiots
+http://localhost:8000/stream/tt1187043
+#EXTINF:-1 tvg-id="High and Low" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Crime",High and Low
+http://localhost:8000/stream/tt0057565
+#EXTINF:-1 tvg-id="Singin' in the Rain" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@.jpg" group-title="Comedy",Singin' in the Rain
+http://localhost:8000/stream/tt0045152
+#EXTINF:-1 tvg-id="Capernaum" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Drama",Capernaum
+http://localhost:8000/stream/tt8267604
+#EXTINF:-1 tvg-id="Requiem for a Dream" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Drama",Requiem for a Dream
+http://localhost:8000/stream/tt0180093
+#EXTINF:-1 tvg-id="Come and See" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Drama",Come and See
+http://localhost:8000/stream/tt0091251
+#EXTINF:-1 tvg-id="Toy Story 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@.jpg" group-title="Animation",Toy Story 3
+http://localhost:8000/stream/tt0435761
+#EXTINF:-1 tvg-id="Star Wars: Episode VI - Return of the Jedi" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg" group-title="Action",Star Wars: Episode VI - Return of the Jedi
+http://localhost:8000/stream/tt0086190
+#EXTINF:-1 tvg-id="Eternal Sunshine of the Spotless Mind" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@.jpg" group-title="Drama",Eternal Sunshine of the Spotless Mind
+http://localhost:8000/stream/tt0338013
+#EXTINF:-1 tvg-id="The Hunt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@.jpg" group-title="Drama",The Hunt
+http://localhost:8000/stream/tt2106476
+#EXTINF:-1 tvg-id="2001: A Space Odyssey" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Adventure",2001: A Space Odyssey
+http://localhost:8000/stream/tt0062622
+#EXTINF:-1 tvg-id="Reservoir Dogs" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Crime",Reservoir Dogs
+http://localhost:8000/stream/tt0105236
+#EXTINF:-1 tvg-id="Ikiru" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM1YmZkNTctZDAwNy00ZTY4LWFjMTktYzU4ZjViMmU1OTJmXkEyXkFqcGdeQXVyMTA0MTM5NjI2.jpg" group-title="Drama",Ikiru
+http://localhost:8000/stream/tt0044741
+#EXTINF:-1 tvg-id="Lawrence of Arabia" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@.jpg" group-title="Adventure",Lawrence of Arabia
+http://localhost:8000/stream/tt0056172
+#EXTINF:-1 tvg-id="The Apartment" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@.jpg" group-title="Comedy",The Apartment
+http://localhost:8000/stream/tt0053604
+#EXTINF:-1 tvg-id="Citizen Kane" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Drama",Citizen Kane
+http://localhost:8000/stream/tt0033467
+#EXTINF:-1 tvg-id="M" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@.jpg" group-title="Crime",M
+http://localhost:8000/stream/tt0022100
+#EXTINF:-1 tvg-id="North by Northwest" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Action",North by Northwest
+http://localhost:8000/stream/tt0053125
+#EXTINF:-1 tvg-id="Vertigo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Mystery",Vertigo
+http://localhost:8000/stream/tt0052357
+#EXTINF:-1 tvg-id="Double Indemnity" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@.jpg" group-title="Crime",Double Indemnity
+http://localhost:8000/stream/tt0036775
+#EXTINF:-1 tvg-id="Scarface" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Crime",Scarface
+http://localhost:8000/stream/tt0086250
+#EXTINF:-1 tvg-id="Am�lie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg" group-title="Comedy",Am�lie
+http://localhost:8000/stream/tt0211915
+#EXTINF:-1 tvg-id="Full Metal Jacket" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Drama",Full Metal Jacket
+http://localhost:8000/stream/tt0093058
+#EXTINF:-1 tvg-id="Incendies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Drama",Incendies
+http://localhost:8000/stream/tt1255953
+#EXTINF:-1 tvg-id="A Clockwork Orange" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@.jpg" group-title="Crime",A Clockwork Orange
+http://localhost:8000/stream/tt0066921
+#EXTINF:-1 tvg-id="Heat" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Action",Heat
+http://localhost:8000/stream/tt0113277
+#EXTINF:-1 tvg-id="Up" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg" group-title="Animation",Up
+http://localhost:8000/stream/tt1049413
+#EXTINF:-1 tvg-id="To Kill a Mockingbird" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Crime",To Kill a Mockingbird
+http://localhost:8000/stream/tt0056592
+#EXTINF:-1 tvg-id="The Sting" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Comedy",The Sting
+http://localhost:8000/stream/tt0070735
+#EXTINF:-1 tvg-id="A Separation" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Drama",A Separation
+http://localhost:8000/stream/tt1832382
+#EXTINF:-1 tvg-id="Hamilton" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@.jpg" group-title="Biography",Hamilton
+http://localhost:8000/stream/tt8503618
+#EXTINF:-1 tvg-id="Indiana Jones and the Last Crusade" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@.jpg" group-title="Action",Indiana Jones and the Last Crusade
+http://localhost:8000/stream/tt0097576
+#EXTINF:-1 tvg-id="Die Hard" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Action",Die Hard
+http://localhost:8000/stream/tt0095016
+#EXTINF:-1 tvg-id="Metropolis" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Drama",Metropolis
+http://localhost:8000/stream/tt0017136
+#EXTINF:-1 tvg-id="Like Stars on Earth" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjY0MGU3MmQtMGVhOS00M2IyLWI1MTktZGUxMzBjMTE5ZDA3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Drama",Like Stars on Earth
+http://localhost:8000/stream/tt0986264
+#EXTINF:-1 tvg-id="Snatch" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg" group-title="Comedy",Snatch
+http://localhost:8000/stream/tt0208092
+#EXTINF:-1 tvg-id="Bicycle Thieves" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Drama",Bicycle Thieves
+http://localhost:8000/stream/tt0040522
+#EXTINF:-1 tvg-id="L.A. Confidential" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Crime",L.A. Confidential
+http://localhost:8000/stream/tt0119488
+#EXTINF:-1 tvg-id="1917" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@.jpg" group-title="Action",1917
+http://localhost:8000/stream/tt8579674
+#EXTINF:-1 tvg-id="Taxi Driver" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Crime",Taxi Driver
+http://localhost:8000/stream/tt0075314
+#EXTINF:-1 tvg-id="Downfall" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2.jpg" group-title="Biography",Downfall
+http://localhost:8000/stream/tt0363163
+#EXTINF:-1 tvg-id="For a Few Dollars More" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",For a Few Dollars More
+http://localhost:8000/stream/tt0059578
+#EXTINF:-1 tvg-id="Batman Begins" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Action",Batman Begins
+http://localhost:8000/stream/tt0372784
+#EXTINF:-1 tvg-id="Some Like It Hot" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Comedy",Some Like It Hot
+http://localhost:8000/stream/tt0053291
+#EXTINF:-1 tvg-id="The Wolf of Wall Street" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@.jpg" group-title="Biography",The Wolf of Wall Street
+http://localhost:8000/stream/tt0993846
+#EXTINF:-1 tvg-id="The Kid" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Comedy",The Kid
+http://localhost:8000/stream/tt0012349
+#EXTINF:-1 tvg-id="Top Gun: Maverick" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@.jpg" group-title="Action",Top Gun: Maverick
+http://localhost:8000/stream/tt1745960
+#EXTINF:-1 tvg-id="The Father" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg" group-title="Drama",The Father
+http://localhost:8000/stream/tt10272386
+#EXTINF:-1 tvg-id="Green Book" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@.jpg" group-title="Biography",Green Book
+http://localhost:8000/stream/tt6966692
+#EXTINF:-1 tvg-id="All About Eve" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE1M2Y3NTYtYTI0Mi00N2JlLTkzMzItOTY1MTlhNWNkMDgzXkEyXkFqcGdeQXVyMTUzMDUzNTI3.jpg" group-title="Drama",All About Eve
+http://localhost:8000/stream/tt0042192
+#EXTINF:-1 tvg-id="Judgment at Nuremberg" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@.jpg" group-title="Drama",Judgment at Nuremberg
+http://localhost:8000/stream/tt0055031
+#EXTINF:-1 tvg-id="The Truman Show" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg" group-title="Comedy",The Truman Show
+http://localhost:8000/stream/tt0120382
+#EXTINF:-1 tvg-id="There Will Be Blood" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@.jpg" group-title="Drama",There Will Be Blood
+http://localhost:8000/stream/tt0469494
+#EXTINF:-1 tvg-id="Casino" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg" group-title="Crime",Casino
+http://localhost:8000/stream/tt0112641
+#EXTINF:-1 tvg-id="Shutter Island" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Mystery",Shutter Island
+http://localhost:8000/stream/tt1130884
+#EXTINF:-1 tvg-id="Ran" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Action",Ran
+http://localhost:8000/stream/tt0089881
+#EXTINF:-1 tvg-id="Jurassic Park" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@.jpg" group-title="Action",Jurassic Park
+http://localhost:8000/stream/tt0107290
+#EXTINF:-1 tvg-id="Pan's Labyrinth" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",Pan's Labyrinth
+http://localhost:8000/stream/tt0457430
+#EXTINF:-1 tvg-id="The Sixth Sense" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@.jpg" group-title="Drama",The Sixth Sense
+http://localhost:8000/stream/tt0167404
+#EXTINF:-1 tvg-id="Unforgiven" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Drama",Unforgiven
+http://localhost:8000/stream/tt0105695
+#EXTINF:-1 tvg-id="A Beautiful Mind" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Biography",A Beautiful Mind
+http://localhost:8000/stream/tt0268978
+#EXTINF:-1 tvg-id="No Country for Old Men" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM2MWEwNDEtZjE4Yi00N2NjLThmYjMtMmY2ZjIwMGM3MWQ0XkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg" group-title="Crime",No Country for Old Men
+http://localhost:8000/stream/tt0477348
+#EXTINF:-1 tvg-id="The Treasure of the Sierra Madre" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg" group-title="Adventure",The Treasure of the Sierra Madre
+http://localhost:8000/stream/tt0040897
+#EXTINF:-1 tvg-id="Yojimbo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg" group-title="Action",Yojimbo
+http://localhost:8000/stream/tt0055630
+#EXTINF:-1 tvg-id="The Thing" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg" group-title="Horror",The Thing
+http://localhost:8000/stream/tt0084787
+#EXTINF:-1 tvg-id="Kill Bill: Vol. 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Action",Kill Bill: Vol. 1
+http://localhost:8000/stream/tt0266697
+#EXTINF:-1 tvg-id="Monty Python and the Holy Grail" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Adventure",Monty Python and the Holy Grail
+http://localhost:8000/stream/tt0071853
+#EXTINF:-1 tvg-id="The Great Escape" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg" group-title="Adventure",The Great Escape
+http://localhost:8000/stream/tt0057115
+#EXTINF:-1 tvg-id="Finding Nemo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYxZjg3OWEtNzg5Yi00M2YzLWI1YzYtYTQ0NTgwNzhjN2E1XkEyXkFqcGdeQXVyNDUyOTg3Njg@.jpg" group-title="Animation",Finding Nemo
+http://localhost:8000/stream/tt0266543
+#EXTINF:-1 tvg-id="Rashomon" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@.jpg" group-title="Crime",Rashomon
+http://localhost:8000/stream/tt0042876
+#EXTINF:-1 tvg-id="The Elephant Man" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Biography",The Elephant Man
+http://localhost:8000/stream/tt0080678
+#EXTINF:-1 tvg-id="Chinatown" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",Chinatown
+http://localhost:8000/stream/tt0071315
+#EXTINF:-1 tvg-id="Howl's Moving Castle" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Animation",Howl's Moving Castle
+http://localhost:8000/stream/tt0347149
+#EXTINF:-1 tvg-id="12th Fail" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJlY2U2ZmYtMzU3Ny00ZDI3LWEwMDYtOWIxNzdhZDI5ZWRkXkEyXkFqcGdeQXVyMTY3ODkyNDkz.jpg" group-title="Biography",12th Fail
+http://localhost:8000/stream/tt23849204
+#EXTINF:-1 tvg-id="Prisoners" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@.jpg" group-title="Crime",Prisoners
+http://localhost:8000/stream/tt1392214
+#EXTINF:-1 tvg-id="Dial M for Murder" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Crime",Dial M for Murder
+http://localhost:8000/stream/tt0046912
+#EXTINF:-1 tvg-id="Gone with the Wind" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Drama",Gone with the Wind
+http://localhost:8000/stream/tt0031381
+#EXTINF:-1 tvg-id="V for Vendetta" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@.jpg" group-title="Action",V for Vendetta
+http://localhost:8000/stream/tt0434409
+#EXTINF:-1 tvg-id="Lock, Stock and Two Smoking Barrels" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg" group-title="Action",Lock, Stock and Two Smoking Barrels
+http://localhost:8000/stream/tt0120735
+#EXTINF:-1 tvg-id="Raging Bull" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@.jpg" group-title="Biography",Raging Bull
+http://localhost:8000/stream/tt0081398
+#EXTINF:-1 tvg-id="The Secret in Their Eyes" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@.jpg" group-title="Drama",The Secret in Their Eyes
+http://localhost:8000/stream/tt1305806
+#EXTINF:-1 tvg-id="Inside Out" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@.jpg" group-title="Animation",Inside Out
+http://localhost:8000/stream/tt2096673
+#EXTINF:-1 tvg-id="Three Billboards Outside Ebbing, Missouri" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@.jpg" group-title="Comedy",Three Billboards Outside Ebbing, Missouri
+http://localhost:8000/stream/tt5027774
+#EXTINF:-1 tvg-id="Spider-Man: No Way Home" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@.jpg" group-title="Action",Spider-Man: No Way Home
+http://localhost:8000/stream/tt10872600
+#EXTINF:-1 tvg-id="Trainspotting" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Drama",Trainspotting
+http://localhost:8000/stream/tt0117951
+#EXTINF:-1 tvg-id="The Bridge on the River Kwai" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg" group-title="Adventure",The Bridge on the River Kwai
+http://localhost:8000/stream/tt0050212
+#EXTINF:-1 tvg-id="Godzilla Minus One" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTZkNWQyMDEtMmRhNi00Nzc5LWFhNjQtMWRiOTllYmEzOWE5XkEyXkFqcGdeQXVyMTMwNzYxMTUx.jpg" group-title="Action",Godzilla Minus One
+http://localhost:8000/stream/tt23289160
+#EXTINF:-1 tvg-id="Fargo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Crime",Fargo
+http://localhost:8000/stream/tt0116282
+#EXTINF:-1 tvg-id="Warrior" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@.jpg" group-title="Action",Warrior
+http://localhost:8000/stream/tt1291584
+#EXTINF:-1 tvg-id="Klaus" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg" group-title="Animation",Klaus
+http://localhost:8000/stream/tt4729430
+#EXTINF:-1 tvg-id="Catch Me If You Can" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2.jpg" group-title="Biography",Catch Me If You Can
+http://localhost:8000/stream/tt0264464
+#EXTINF:-1 tvg-id="Gran Torino" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@.jpg" group-title="Drama",Gran Torino
+http://localhost:8000/stream/tt1205489
+#EXTINF:-1 tvg-id="My Neighbor Totoro" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Animation",My Neighbor Totoro
+http://localhost:8000/stream/tt0096283
+#EXTINF:-1 tvg-id="Million Dollar Baby" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@.jpg" group-title="Drama",Million Dollar Baby
+http://localhost:8000/stream/tt0405159
+#EXTINF:-1 tvg-id="Harry Potter and the Deathly Hallows: Part 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg" group-title="Adventure",Harry Potter and the Deathly Hallows: Part 2
+http://localhost:8000/stream/tt1201607
+#EXTINF:-1 tvg-id="Children of Heaven" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Drama",Children of Heaven
+http://localhost:8000/stream/tt0118849
+#EXTINF:-1 tvg-id="Blade Runner" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Action",Blade Runner
+http://localhost:8000/stream/tt0083658
+#EXTINF:-1 tvg-id="12 Years a Slave" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@.jpg" group-title="Biography",12 Years a Slave
+http://localhost:8000/stream/tt2024544
+#EXTINF:-1 tvg-id="Before Sunrise" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Drama",Before Sunrise
+http://localhost:8000/stream/tt0112471
+#EXTINF:-1 tvg-id="The Grand Budapest Hotel" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@.jpg" group-title="Adventure",The Grand Budapest Hotel
+http://localhost:8000/stream/tt2278388
+#EXTINF:-1 tvg-id="Ben-Hur" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Adventure",Ben-Hur
+http://localhost:8000/stream/tt0052618
+#EXTINF:-1 tvg-id="Barry Lyndon" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Adventure",Barry Lyndon
+http://localhost:8000/stream/tt0072684
+#EXTINF:-1 tvg-id="Gone Girl" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@.jpg" group-title="Drama",Gone Girl
+http://localhost:8000/stream/tt2267998
+#EXTINF:-1 tvg-id="The Gold Rush" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg" group-title="Adventure",The Gold Rush
+http://localhost:8000/stream/tt0015864
+#EXTINF:-1 tvg-id="Hacksaw Ridge" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@.jpg" group-title="Biography",Hacksaw Ridge
+http://localhost:8000/stream/tt2119532
+#EXTINF:-1 tvg-id="In the Name of the Father" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Biography",In the Name of the Father
+http://localhost:8000/stream/tt0107207
+#EXTINF:-1 tvg-id="Memories of Murder" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@.jpg" group-title="Crime",Memories of Murder
+http://localhost:8000/stream/tt0353969
+#EXTINF:-1 tvg-id="On the Waterfront" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Crime",On the Waterfront
+http://localhost:8000/stream/tt0047296
+#EXTINF:-1 tvg-id="The General" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Action",The General
+http://localhost:8000/stream/tt0017925
+#EXTINF:-1 tvg-id="The Deer Hunter" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Drama",The Deer Hunter
+http://localhost:8000/stream/tt0077416
+#EXTINF:-1 tvg-id="Wild Tales" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@.jpg" group-title="Comedy",Wild Tales
+http://localhost:8000/stream/tt3011894
+#EXTINF:-1 tvg-id="Dead Poets Society" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Comedy",Dead Poets Society
+http://localhost:8000/stream/tt0097165
+#EXTINF:-1 tvg-id="Wild Strawberries" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",Wild Strawberries
+http://localhost:8000/stream/tt0050986
+#EXTINF:-1 tvg-id="Mad Max: Fury Road" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Action",Mad Max: Fury Road
+http://localhost:8000/stream/tt1392190
+#EXTINF:-1 tvg-id="The Third Man" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Film-Noir",The Third Man
+http://localhost:8000/stream/tt0041959
+#EXTINF:-1 tvg-id="The Wages of Fear" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg" group-title="Adventure",The Wages of Fear
+http://localhost:8000/stream/tt0046268
+#EXTINF:-1 tvg-id="Sherlock Jr." tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg" group-title="Action",Sherlock Jr.
+http://localhost:8000/stream/tt0015324
+#EXTINF:-1 tvg-id="Monsters, Inc." tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@.jpg" group-title="Animation",Monsters, Inc.
+http://localhost:8000/stream/tt0198781
+#EXTINF:-1 tvg-id="Jaws" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg" group-title="Adventure",Jaws
+http://localhost:8000/stream/tt0073195
+#EXTINF:-1 tvg-id="Mr. Smith Goes to Washington" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg" group-title="Comedy",Mr. Smith Goes to Washington
+http://localhost:8000/stream/tt0031679
+#EXTINF:-1 tvg-id="How to Train Your Dragon" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@.jpg" group-title="Animation",How to Train Your Dragon
+http://localhost:8000/stream/tt0892769
+#EXTINF:-1 tvg-id="Mary and Max" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Animation",Mary and Max
+http://localhost:8000/stream/tt0978762
+#EXTINF:-1 tvg-id="Ford v Ferrari" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx.jpg" group-title="Action",Ford v Ferrari
+http://localhost:8000/stream/tt1950186
+#EXTINF:-1 tvg-id="The Seventh Seal" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",The Seventh Seal
+http://localhost:8000/stream/tt0050976
+#EXTINF:-1 tvg-id="Ratatouille" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@.jpg" group-title="Animation",Ratatouille
+http://localhost:8000/stream/tt0382932
+#EXTINF:-1 tvg-id="Room" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@.jpg" group-title="Drama",Room
+http://localhost:8000/stream/tt3170832
+#EXTINF:-1 tvg-id="The Big Lebowski" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzliZDk0NjctNjhlOC00MWEyLWI3OWYtNjA5ZDYxMTMzNTc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg" group-title="Comedy",The Big Lebowski
+http://localhost:8000/stream/tt0118715
+#EXTINF:-1 tvg-id="Tokyo Story" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Drama",Tokyo Story
+http://localhost:8000/stream/tt0046438
+#EXTINF:-1 tvg-id="Rocky" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",Rocky
+http://localhost:8000/stream/tt0075148
+#EXTINF:-1 tvg-id="Hotel Rwanda" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Biography",Hotel Rwanda
+http://localhost:8000/stream/tt0395169
+#EXTINF:-1 tvg-id="Logan" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Action",Logan
+http://localhost:8000/stream/tt3315342
+#EXTINF:-1 tvg-id="Spotlight" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@.jpg" group-title="Biography",Spotlight
+http://localhost:8000/stream/tt1895587
+#EXTINF:-1 tvg-id="Platoon" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Drama",Platoon
+http://localhost:8000/stream/tt0091763
+#EXTINF:-1 tvg-id="The Passion of Joan of Arc" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Biography",The Passion of Joan of Arc
+http://localhost:8000/stream/tt0019254
+#EXTINF:-1 tvg-id="The Terminator" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg" group-title="Action",The Terminator
+http://localhost:8000/stream/tt0088247
+#EXTINF:-1 tvg-id="Before Sunset" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3.jpg" group-title="Drama",Before Sunset
+http://localhost:8000/stream/tt0381681
+#EXTINF:-1 tvg-id="Jai Bhim" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@.jpg" group-title="Crime",Jai Bhim
+http://localhost:8000/stream/tt15097216
+#EXTINF:-1 tvg-id="Rush" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Action",Rush
+http://localhost:8000/stream/tt1979320
+#EXTINF:-1 tvg-id="The Best Years of Our Lives" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Drama",The Best Years of Our Lives
+http://localhost:8000/stream/tt0036868
+#EXTINF:-1 tvg-id="Network" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2.jpg" group-title="Drama",Network
+http://localhost:8000/stream/tt0074958
+#EXTINF:-1 tvg-id="The Exorcist" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Horror",The Exorcist
+http://localhost:8000/stream/tt0070047
+#EXTINF:-1 tvg-id="La haine" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Crime",La haine
+http://localhost:8000/stream/tt0113247
+#EXTINF:-1 tvg-id="Stand by Me" tvg-logo="https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Adventure",Stand by Me
+http://localhost:8000/stream/tt0092005
+#EXTINF:-1 tvg-id="Pirates of the Caribbean: The Curse of the Black Pearl" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Action",Pirates of the Caribbean: The Curse of the Black Pearl
+http://localhost:8000/stream/tt0325980
+#EXTINF:-1 tvg-id="The Wizard of Oz" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NjNDU1ZjctN2VhZi00Nzc5LTljNmItMTZiOTg1ODkwYjgwXkEyXkFqcGdeQXVyNTkxMzEwMzU@.jpg" group-title="Adventure",The Wizard of Oz
+http://localhost:8000/stream/tt0032138
+#EXTINF:-1 tvg-id="The Incredibles" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@.jpg" group-title="Animation",The Incredibles
+http://localhost:8000/stream/tt0317705
+#EXTINF:-1 tvg-id="Into the Wild" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg" group-title="Adventure",Into the Wild
+http://localhost:8000/stream/tt0758758
+#EXTINF:-1 tvg-id="To Be or Not to Be" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@.jpg" group-title="Comedy",To Be or Not to Be
+http://localhost:8000/stream/tt0035446
+#EXTINF:-1 tvg-id="Hachi: A Dog's Tale" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQzYjgyYzEtOTVhZC00MDRkLWJjNjItYzU3N2RiMTExZjA1XkEyXkFqcGdeQXVyMTcwOTQzOTYy.jpg" group-title="Biography",Hachi: A Dog's Tale
+http://localhost:8000/stream/tt1028532
+#EXTINF:-1 tvg-id="The Handmaiden" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg" group-title="Drama",The Handmaiden
+http://localhost:8000/stream/tt4016934
+#EXTINF:-1 tvg-id="My Father and My Son" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEzMWYyYjEtNmVjZS00YTAyLWIyOTgtMzEzNzQxMTQzZTgwXkEyXkFqcGdeQXVyMTA0MTM5NjI2.jpg" group-title="Drama",My Father and My Son
+http://localhost:8000/stream/tt0476735
+#EXTINF:-1 tvg-id="The Grapes of Wrath" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Drama",The Grapes of Wrath
+http://localhost:8000/stream/tt0032551
+#EXTINF:-1 tvg-id="The Battle of Algiers" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",The Battle of Algiers
+http://localhost:8000/stream/tt0058946
+#EXTINF:-1 tvg-id="Groundhog Day" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg" group-title="Comedy",Groundhog Day
+http://localhost:8000/stream/tt0107048
+#EXTINF:-1 tvg-id="The Sound of Music" tvg-logo="https://m.media-amazon.com/images/M/MV5BYThiZTY5MTAtODgwNS00OGNjLThjYzItOTcxYmYxMGY5MzBjXkEyXkFqcGdeQXVyNjc5NjEzNA@@.jpg" group-title="Biography",The Sound of Music
+http://localhost:8000/stream/tt0059742
+#EXTINF:-1 tvg-id="Amores Perros" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Drama",Amores Perros
+http://localhost:8000/stream/tt0245712
+#EXTINF:-1 tvg-id="Rebecca" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Drama",Rebecca
+http://localhost:8000/stream/tt0032976
+#EXTINF:-1 tvg-id="Cool Hand Luke" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg" group-title="Crime",Cool Hand Luke
+http://localhost:8000/stream/tt0061512
+#EXTINF:-1 tvg-id="The Iron Giant" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3.jpg" group-title="Animation",The Iron Giant
+http://localhost:8000/stream/tt0129167
+#EXTINF:-1 tvg-id="The Help" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@.jpg" group-title="Drama",The Help
+http://localhost:8000/stream/tt1454029
+#EXTINF:-1 tvg-id="It Happened One Night" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg" group-title="Comedy",It Happened One Night
+http://localhost:8000/stream/tt0025316
+#EXTINF:-1 tvg-id="Pather Panchali" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@.jpg" group-title="Drama",Pather Panchali
+http://localhost:8000/stream/tt0048473
+#EXTINF:-1 tvg-id="The 400 Blows" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUwYzU2YjctOGM3YS00YjdiLTk1YjctZjdmMDY4ZTE1YWZkXkEyXkFqcGdeQXVyNzYxODE3NTQ@.jpg" group-title="Crime",The 400 Blows
+http://localhost:8000/stream/tt0053198
+#EXTINF:-1 tvg-id="Aladdin" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg5ZTVmM2EtZjdhZC00MzBjLWEwZTYtNWIwZDczYzZkMzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg" group-title="Animation",Aladdin
+http://localhost:8000/stream/tt0103639
+#EXTINF:-1 tvg-id="Dances with Wolves" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@.jpg" group-title="Adventure",Dances with Wolves
+http://localhost:8000/stream/tt0099348
