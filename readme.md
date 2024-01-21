@@ -1,4 +1,4 @@
-### Project Name: VidSrc Streamer
+# VidSrc Streamer
 
 #### Overview
 
