@@ -32,7 +32,7 @@ This project comprises two primary components:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/VidSrc-Streamer.git
+   git clone https://github.com/habitual69/VidSrc-Streamer.git
    ```
 
 2. Navigate to the project directory:
